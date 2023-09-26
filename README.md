@@ -2,7 +2,7 @@
 
 This repository contains practice notebooks in Web Scrapping.
 
-
+1. Beautiful Soup
 > * Beautiful Soup
-> * Requess
-> * Scrapy
+> * Requests
+> * Pandas
